@@ -1,6 +1,6 @@
 ---
 title: Portfolio of Adoline McCammon
-timezone: UTC
+timezone: America/Denver
 collections:
   posts:
     title: Posts
@@ -18,7 +18,7 @@ author: Adoline McCammon
 email: ado.forgets@gmail.com
 avatar: assets/images/avatar.png
 incremental: false
-baseurl: ''
+baseurl: 
 url: http://192.168.1.37:4000/
 twitter_url: 
 facebook_url: 
