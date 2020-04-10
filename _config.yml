@@ -15,11 +15,11 @@ subtitle: Currently running from Jekyll
 description: This is the WIP Portfolio site of Adoline McCammon, and is currently
   running from a Jekyll instance.
 author: Adoline McCammon
-email: ado.forgets@gmail.com
+email: adoline.mccammon@gmail.com
 avatar: assets/images/avatar.png
 incremental: false
+url: http://priv.astragroup.info
 baseurl: 
-url: http://192.168.1.37:4000/
 twitter_url: 
 facebook_url: 
 googleplus_url: 
@@ -31,5 +31,5 @@ slack_url:
 dribbble_url: 
 google_analytics: 
 theme: jekyll-theme-prologue
-host: 192.168.1.37
+host: 0.0.0.0
 port: 4000
